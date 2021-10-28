@@ -10,5 +10,7 @@
 * _CSS_
 * _JS_
 * _REACT_ Up
+* _Selenium_
+* _Angular_
 
 ## For Development
